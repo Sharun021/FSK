@@ -6,6 +6,7 @@ Write a Python program for the modulation and demodulation of FSK.
 Python: A versatile programming language used for scientific computing and signal processing. NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations. Matplotlib: A plotting library for generating high-quality graphs and visualizations of data, essentialfor demonstrating the sampling process.
 # Program
 ```
+//FSK
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
@@ -90,3 +91,4 @@ plt.show()
 # Results
 Thus the FSK(Frequency shift keying) is performed using Python.
 # Hardware experiment output waveform.
+![WhatsApp Image 2025-04-23 at 20 58 18_38b38d4c](https://github.com/user-attachments/assets/146ec52d-a326-45bb-905f-726beca23e6d)
